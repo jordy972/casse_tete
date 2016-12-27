@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/crunky/cassetete/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/crunky/cassetete/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/ryad/Bureau/P8_Sokoban/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/ryad/Bureau/P8_Sokoban/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/crunky/casse_tete/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/crunky/casse_tete/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/crunky/cassetete2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/crunky/cassetete2/app/src/main/res/layout/main.xml"
+    }
+]

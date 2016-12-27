@@ -1,0 +1,4 @@
+#Tue Dec 27 19:18:43 CET 2016
+base.0=/home/crunky/cassetete2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/crunky/cassetete2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
