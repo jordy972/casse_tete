@@ -4,8 +4,9 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-	<p8.demo.p8sokoban.SokobanView android:id="@+id/SokobanView"
+	<p8.demo.p8sokoban.CasseteteView android:id="@+id/CasseteteView"
 		android:layout_width="fill_parent"
-		android:layout_height="fill_parent" />    
+		android:layout_height="fill_parent" />
+
 
 </FrameLayout>
